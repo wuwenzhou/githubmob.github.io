@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 title: About Me
 tags: [about]
-image:
+image:wxl-photo.jpg
 comments: true
 share: true
 ---
