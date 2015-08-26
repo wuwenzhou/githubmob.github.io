@@ -12,20 +12,15 @@ share: true
 
 {
 
-  "name": “Mob",
+  "name": "Mob",
 
-  "description": “being-towars-death",
+  "description": "being-towars-death",
 
   "version": "0.0.9",
 
   "keywords": ["Web APP", "JS", "Frontend Developer"],
 
   "contact": {
-
-``` 
-"weibo": "@hacke2",
-"github": "@hacke2"
-```
 
   },
 
@@ -36,4 +31,3 @@ share: true
 }
 
 {% endhighlight %}
-
