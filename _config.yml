@@ -1,4 +1,4 @@
-title:            mob‘s blog
+title:            mob's blog
 description:      
 disqus_shortname: mob
 reading_time:     true
@@ -9,7 +9,7 @@ url:              http://abcdefg.info
 # Owner/author information
 owner:
   name:           mob
-  avatar:         wxl-photo2.jpg
+  avatar:
   bio:            "being-towards-death"
   email:          97546304@qq.com
   # Social networking links used in footer. Update and remove as you like.
