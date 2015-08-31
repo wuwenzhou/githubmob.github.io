@@ -4,7 +4,7 @@
   <title><![CDATA[Mob]]></title>
   <link href="abcdefg.info/atom.xml" rel="self"/>
   <link href="abcdefg.info/"/>
-  <updated>2015-08-31T22:35:22+08:00</updated>
+  <updated>2015-08-31T22:53:21+08:00</updated>
   <id>abcdefg.info/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -14,24 +14,57 @@
 
   
   <entry>
-    <title type="html"><![CDATA[文件上传]]></title>
-    <link href="abcdefg.info/14410315119386.html"/>
-    <updated>2015-08-31T22:31:51+08:00</updated>
-    <id>abcdefg.info/14410315119386.html</id>
+    <title type="html"><![CDATA[2]]></title>
+    <link href="abcdefg.info/14410329265524.html"/>
+    <updated>2015-08-31T22:55:26+08:00</updated>
+    <id>abcdefg.info/14410329265524.html</id>
     <content type="html"><![CDATA[
-<ul>
-<li>
-<a href="#toc_0">1.文件上传的步骤</a>
-</li>
-<li>
-<a href="#toc_1">2.获取 MIMEType 的三种方式</a>
-</li>
-</ul>
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[3]]></title>
+    <link href="abcdefg.info/14410329260499.html"/>
+    <updated>2015-08-31T22:55:26+08:00</updated>
+    <id>abcdefg.info/14410329260499.html</id>
+    <content type="html"><![CDATA[
 
-<h2 id="toc_0">1.文件上传的步骤</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[4]]></title>
+    <link href="abcdefg.info/14410329254161.html"/>
+    <updated>2015-08-31T22:55:25+08:00</updated>
+    <id>abcdefg.info/14410329254161.html</id>
+    <content type="html"><![CDATA[
 
-<h2 id="toc_1">2.获取 MIMEType 的三种方式</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[关于多线程，看我就够了]]></title>
+    <link href="abcdefg.info/14410325657335.html"/>
+    <updated>2015-08-31T22:49:25+08:00</updated>
+    <id>abcdefg.info/14410325657335.html</id>
+    <content type="html"><![CDATA[
+<h3 id="toc_0">GCD</h3>
+
+<h3 id="toc_1">NSOperation</h3>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[文件上传]]></title>
+    <link href="abcdefg.info/fileupload.html"/>
+    <updated>2015-08-31T22:31:51+08:00</updated>
+    <id>abcdefg.info/fileupload.html</id>
+    <content type="html"><![CDATA[
+<h3 id="toc_0">1.文件上传的步骤</h3>
+
+<h3 id="toc_1">2.获取 MIMEType 的三种方式</h3>
 
 <ul>
 <li><p>搜索引擎 推荐<a href="http://www.w3school.com.cn/media/media_mimeref.asp">W3School</a></p></li>
@@ -49,383 +82,6 @@
   return response.MIMEType;
 }
 </code></pre></li>
-<li><p>对照表</p>
-
-<p>application/octet-stream</p>
-
-<p>323   text/h323</p>
-
-<p>acx   application/internet-property-stream</p>
-
-<p>ai    application/postscript</p>
-
-<p>aif   audio/x-aiff</p>
-
-<p>aifc  audio/x-aiff</p>
-
-<p>aiff  audio/x-aiff</p>
-
-<p>asf   video/x-ms-asf</p>
-
-<p>asr   video/x-ms-asf</p>
-
-<p>asx   video/x-ms-asf</p>
-
-<p>au    audio/basic</p>
-
-<p>avi   video/x-msvideo</p>
-
-<p>axs   application/olescript</p>
-
-<p>bas   text/plain</p>
-
-<p>bcpio application/x-bcpio</p>
-
-<p>bin   application/octet-stream</p>
-
-<p>bmp   image/bmp</p>
-
-<p>c text/plain</p>
-
-<p>cat   application/vnd.ms-pkiseccat</p>
-
-<p>cdf   application/x-cdf</p>
-
-<p>cer   application/x-x509-ca-cert</p>
-
-<p>class application/octet-stream</p>
-
-<p>clp   application/x-msclip</p>
-
-<p>cmx   image/x-cmx</p>
-
-<p>cod   image/cis-cod</p>
-
-<p>cpio  application/x-cpio</p>
-
-<p>crd   application/x-mscardfile</p>
-
-<p>crl   application/pkix-crl</p>
-
-<p>crt   application/x-x509-ca-cert</p>
-
-<p>csh   application/x-csh</p>
-
-<p>css   text/css</p>
-
-<p>dcr   application/x-director</p>
-
-<p>der   application/x-x509-ca-cert</p>
-
-<p>dir   application/x-director</p>
-
-<p>dll   application/x-msdownload</p>
-
-<p>dms   application/octet-stream</p>
-
-<p>doc   application/msword</p>
-
-<p>dot   application/msword</p>
-
-<p>dvi   application/x-dvi</p>
-
-<p>dxr   application/x-director</p>
-
-<p>eps   application/postscript</p>
-
-<p>etx   text/x-setext</p>
-
-<p>evy   application/envoy</p>
-
-<p>exe   application/octet-stream</p>
-
-<p>fif   application/fractals</p>
-
-<p>flr   x-world/x-vrml</p>
-
-<p>gif   image/gif</p>
-
-<p>gtar  application/x-gtar</p>
-
-<p>gz    application/x-gzip</p>
-
-<p>h text/plain</p>
-
-<p>hdf   application/x-hdf</p>
-
-<p>hlp   application/winhlp</p>
-
-<p>hqx   application/mac-binhex40</p>
-
-<p>hta   application/hta</p>
-
-<p>htc   text/x-component</p>
-
-<p>htm   text/html</p>
-
-<p>html  text/html</p>
-
-<p>htt   text/webviewhtml</p>
-
-<p>ico   image/x-icon</p>
-
-<p>ief   image/ief</p>
-
-<p>iii   application/x-iphone</p>
-
-<p>ins   application/x-internet-signup</p>
-
-<p>isp   application/x-internet-signup</p>
-
-<p>jfif  image/pipeg</p>
-
-<p>jpe   image/jpeg</p>
-
-<p>jpeg  image/jpeg</p>
-
-<p>jpg   image/jpeg</p>
-
-<p>js    application/x-javascript</p>
-
-<p>latex application/x-latex</p>
-
-<p>lha   application/octet-stream</p>
-
-<p>lsf   video/x-la-asf</p>
-
-<p>lsx   video/x-la-asf</p>
-
-<p>lzh   application/octet-stream</p>
-
-<p>m13   application/x-msmediaview</p>
-
-<p>m14   application/x-msmediaview</p>
-
-<p>m3u   audio/x-mpegurl</p>
-
-<p>man   application/x-troff-man</p>
-
-<p>mdb   application/x-msaccess</p>
-
-<p>me    application/x-troff-me</p>
-
-<p>mht   message/rfc822</p>
-
-<p>mhtml message/rfc822</p>
-
-<p>mid   audio/mid</p>
-
-<p>mny   application/x-msmoney</p>
-
-<p>mov   video/quicktime</p>
-
-<p>movie video/x-sgi-movie</p>
-
-<p>mp2   video/mpeg</p>
-
-<p>mp3   audio/mpeg</p>
-
-<p>mpa   video/mpeg</p>
-
-<p>mpe   video/mpeg</p>
-
-<p>mpeg  video/mpeg</p>
-
-<p>mpg   video/mpeg</p>
-
-<p>mpp   application/vnd.ms-project</p>
-
-<p>mpv2  video/mpeg</p>
-
-<p>ms    application/x-troff-ms</p>
-
-<p>mvb   application/x-msmediaview</p>
-
-<p>nws   message/rfc822</p>
-
-<p>oda   application/oda</p>
-
-<p>p10   application/pkcs10</p>
-
-<p>p12   application/x-pkcs12</p>
-
-<p>p7b   application/x-pkcs7-certificates</p>
-
-<p>p7c   application/x-pkcs7-mime</p>
-
-<p>p7m   application/x-pkcs7-mime</p>
-
-<p>p7r   application/x-pkcs7-certreqresp</p>
-
-<p>p7s   application/x-pkcs7-signature</p>
-
-<p>pbm   image/x-portable-bitmap</p>
-
-<p>pdf   application/pdf</p>
-
-<p>pfx   application/x-pkcs12</p>
-
-<p>pgm   image/x-portable-graymap</p>
-
-<p>pko   application/ynd.ms-pkipko</p>
-
-<p>pma   application/x-perfmon</p>
-
-<p>pmc   application/x-perfmon</p>
-
-<p>pml   application/x-perfmon</p>
-
-<p>pmr   application/x-perfmon</p>
-
-<p>pmw   application/x-perfmon</p>
-
-<p>pnm   image/x-portable-anymap</p>
-
-<p>pot,  application/vnd.ms-powerpoint</p>
-
-<p>ppm   image/x-portable-pixmap</p>
-
-<p>pps   application/vnd.ms-powerpoint</p>
-
-<p>ppt   application/vnd.ms-powerpoint</p>
-
-<p>prf   application/pics-rules</p>
-
-<p>ps    application/postscript</p>
-
-<p>pub   application/x-mspublisher</p>
-
-<p>qt    video/quicktime</p>
-
-<p>ra    audio/x-pn-realaudio</p>
-
-<p>ram   audio/x-pn-realaudio</p>
-
-<p>ras   image/x-cmu-raster</p>
-
-<p>rgb   image/x-rgb</p>
-
-<p>rmi   audio/mid</p>
-
-<p>roff  application/x-troff</p>
-
-<p>rtf   application/rtf</p>
-
-<p>rtx   text/richtext</p>
-
-<p>scd   application/x-msschedule</p>
-
-<p>sct   text/scriptlet</p>
-
-<p>setpay    application/set-payment-initiation</p>
-
-<p>setreg    application/set-registration-initiation</p>
-
-<p>sh    application/x-sh</p>
-
-<p>shar  application/x-shar</p>
-
-<p>sit   application/x-stuffit</p>
-
-<p>snd   audio/basic</p>
-
-<p>spc   application/x-pkcs7-certificates</p>
-
-<p>spl   application/futuresplash</p>
-
-<p>src   application/x-wais-source</p>
-
-<p>sst   application/vnd.ms-pkicertstore</p>
-
-<p>stl   application/vnd.ms-pkistl</p>
-
-<p>stm   text/html</p>
-
-<p>svg   image/svg+xml</p>
-
-<p>sv4cpio   application/x-sv4cpio</p>
-
-<p>sv4crc    application/x-sv4crc</p>
-
-<p>swf   application/x-shockwave-flash</p>
-
-<p>t application/x-troff</p>
-
-<p>tar   application/x-tar</p>
-
-<p>tcl   application/x-tcl</p>
-
-<p>tex   application/x-tex</p>
-
-<p>texi  application/x-texinfo</p>
-
-<p>texinfo   application/x-texinfo</p>
-
-<p>tgz   application/x-compressed</p>
-
-<p>tif   image/tiff</p>
-
-<p>tiff  image/tiff</p>
-
-<p>tr    application/x-troff</p>
-
-<p>trm   application/x-msterminal</p>
-
-<p>tsv   text/tab-separated-values</p>
-
-<p>txt   text/plain</p>
-
-<p>uls   text/iuls</p>
-
-<p>ustar application/x-ustar</p>
-
-<p>vcf   text/x-vcard</p>
-
-<p>vrml  x-world/x-vrml</p>
-
-<p>wav   audio/x-wav</p>
-
-<p>wcm   application/vnd.ms-works</p>
-
-<p>wdb   application/vnd.ms-works</p>
-
-<p>wks   application/vnd.ms-works</p>
-
-<p>wmf   application/x-msmetafile</p>
-
-<p>wps   application/vnd.ms-works</p>
-
-<p>wri   application/x-mswrite</p>
-
-<p>wrl   x-world/x-vrml</p>
-
-<p>wrz   x-world/x-vrml</p>
-
-<p>xaf   x-world/x-vrml</p>
-
-<p>xbm   image/x-xbitmap</p>
-
-<p>xla   application/vnd.ms-excel</p>
-
-<p>xlc   application/vnd.ms-excel</p>
-
-<p>xlm   application/vnd.ms-excel</p>
-
-<p>xls   application/vnd.ms-excel</p>
-
-<p>xlt   application/vnd.ms-excel</p>
-
-<p>xlw   application/vnd.ms-excel</p>
-
-<p>xof   x-world/x-vrml</p>
-
-<p>xpm   image/x-xpixmap</p>
-
-<p>xwd   image/x-xwindowdump</p>
-
-<p>z application/x-compress</p>
-
-<p>zip   application/zip</p></li>
 </ul>
 
 ]]></content>
